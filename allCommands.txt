@@ -1,0 +1,30 @@
+git init – Initierar ett nytt Git-repo i en mapp  
+git status – Visar ändringar i working directory  
+git add filnamn – Lägger till en fil till staging area  
+git commit -m "meddelande" – Sparar ändringar med ett meddelande  
+git log – Visar commit-historik  
+git diff – Visar skillnader mellan versioner  
+git branch – Visar alla branches  
+git checkout branchnamn – Byter till annan branch  
+git merge branchnamn – Slår ihop branch till aktuell  
+git reset --hard HEAD~1 – Återställer till förra commit  
+git push – Laddar upp ändringar till fjärrrepo  
+git pull – Hämtar och slår ihop ändringar från fjärrrepo  
+git clone URL – Klonar ett repo till lokal mapp  
+git stash – Sparar tillfälliga ändringar utan commit  
+git remote – Visar kopplingar till fjärrrepo  
+git rm filnamn – Tar bort en fil från både arbetskatalog och staging  
+git mv gammalt_filnamn nytt_filnamn – Byter namn på en fil och stage:ar ändringen  
+git fetch – Hämtar uppdateringar från fjärrrepo utan att merga  
+git rebase branchnamn – Flyttar commits till toppen av en annan branch  
+git cherry-pick commit-id – Lägger till en enskild commit från annan branch  
+git tag – Skapar eller visar taggar  
+git show – Visar detaljer för en commit  
+git blame filnamn – Visar vem som skrev vilken rad i en fil  
+git clean -fd – Tar bort otrackade filer och mappar  
+git config --list – Visar git-konfiguration  
+git shortlog – Visar en summering av commits per användare  
+git describe – Visar senaste tagg och commit-id  
+git archive – Skapar en zip av projektet  
+git bisect – Används för att hitta vilken commit som introducerade en bugg  
+git reflog – Visar historik över HEAD-positioner  
