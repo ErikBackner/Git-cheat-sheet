@@ -34,6 +34,10 @@
   {
     "kommando": "git clean -fd",
     "beskrivning": "Tar bort otrackade filer och mappar"
+  },
+  {
+    "kommando": "git config --list",
+    "beskrivning": "Visar git-konfiguration"
   }
 
 
