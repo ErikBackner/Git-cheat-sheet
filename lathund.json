@@ -46,6 +46,10 @@
   {
     "kommando": "git describe",
     "beskrivning": "Visar senaste tagg och commit-id"
+  },
+  {
+    "kommando": "git archive",
+    "beskrivning": "Skapar en zip av projektet"
   }
 
 
