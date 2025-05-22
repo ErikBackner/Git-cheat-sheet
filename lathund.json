@@ -58,6 +58,68 @@
   {
     "kommando": "git remote",
     "beskrivning": "Visar kopplingar till fjärrrepo"
+  },
+  {
+
+    "kommando": "git rm filnamn",
+    "beskrivning": "Tar bort en fil från både arbetskatalog och staging"
+  },
+  {
+    "kommando": "git mv gammalt_filnamn nytt_filnamn",
+    "beskrivning": "Byter namn på en fil och stagear ändringen"
+  },
+  {
+    "kommando": "git fetch",
+    "beskrivning": "Hämtar uppdateringar från fjärrrepo utan att merga"
+  },
+  {
+    "kommando": "git rebase branchnamn",
+    "beskrivning": "Flyttar commits till toppen av en annan branch"
+  },
+  {
+    "kommando": "git cherry-pick commit-id",
+    "beskrivning": "Lägger till en enskild commit från annan branch"
+  },
+  {
+    "kommando": "git tag",
+    "beskrivning": "Skapar eller visar taggar"
+  },
+  {
+    "kommando": "git show",
+    "beskrivning": "Visar detaljer för en commit"
+  },
+  {
+    "kommando": "git blame filnamn",
+    "beskrivning": "Visar vem som skrev vilken rad i en fil"
+  },
+  {
+    "kommando": "git clean -fd",
+    "beskrivning": "Tar bort otrackade filer och mappar"
+  },
+  {
+    "kommando": "git config --list",
+    "beskrivning": "Visar git-konfiguration"
+  },
+  {
+    "kommando": "git shortlog",
+    "beskrivning": "Visar en summering av commits per användare"
+  },
+  {
+    "kommando": "git describe",
+    "beskrivning": "Visar senaste tagg och commit-id"
+  },
+  {
+    "kommando": "git archive",
+    "beskrivning": "Skapar en zip av projektet"
+  },
+  {
+    "kommando": "git bisect",
+    "beskrivning": "Används för att hitta vilken commit som introducerade en bugg"
+  },
+  {
+    "kommando": "git reflog",
+    "beskrivning": "Visar historik över HEAD-positioner"
   }
+
 
 ]
