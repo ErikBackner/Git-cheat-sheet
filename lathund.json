@@ -30,7 +30,12 @@
   {
     "kommando": "git checkout branchnamn",
     "beskrivning": "Byter till annan branch"
+  },
+  {
+    "kommando": "git merge branchnamn",
+    "beskrivning": "Slår ihop en branch med den aktuella branchen"
   }
+
 
 
 
