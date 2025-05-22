@@ -46,6 +46,10 @@
   {
     "kommando": "git pull",
     "beskrivning": "Hämtar och slår ihop ändringar från fjärrrepo"
+  },
+  {
+    "kommando": "git clone URL",
+    "beskrivning": "Klonar ett repo till lokal mapp"
   }
 
 
