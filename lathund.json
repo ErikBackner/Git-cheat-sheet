@@ -26,6 +26,10 @@
   {
     "kommando": "git show",
     "beskrivning": "Visar detaljer för en commit"
+  },
+  {
+    "kommando": "git blame filnamn",
+    "beskrivning": "Visar vem som skrev vilken rad i en fil"
   }
 
 
