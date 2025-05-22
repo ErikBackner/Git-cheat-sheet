@@ -50,6 +50,10 @@
   {
     "kommando": "git clone URL",
     "beskrivning": "Klonar ett repo till lokal mapp"
+  },
+  {
+    "kommando": "git stash",
+    "beskrivning": "Sparar tillfälliga ändringar utan commit"
   }
 
 
