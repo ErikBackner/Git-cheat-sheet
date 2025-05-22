@@ -1,0 +1,8 @@
+﻿[
+  {
+    "kommando": "git rm filnamn",
+    "beskrivning": "Tar bort en fil från både arbetskatalog och staging"
+  }
+
+
+]
