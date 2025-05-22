@@ -6,6 +6,10 @@
   {
     "kommando": "git mv gammalt_filnamn nytt_filnamn",
     "beskrivning": "Byter namn på en fil och stagear ändringen"
+  },
+  {
+    "kommando": "git fetch",
+    "beskrivning": "Hämtar uppdateringar från fjärrrepo utan att merga"
   }
 
 
