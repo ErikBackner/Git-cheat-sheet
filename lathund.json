@@ -54,9 +54,10 @@
   {
     "kommando": "git stash",
     "beskrivning": "Sparar tillfälliga ändringar utan commit"
+  },
+  {
+    "kommando": "git remote",
+    "beskrivning": "Visar kopplingar till fjärrrepo"
   }
-
-
-
 
 ]
