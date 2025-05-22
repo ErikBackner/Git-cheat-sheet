@@ -18,6 +18,10 @@
   {
     "kommando": "git log",
     "beskrivning": "Visar commit-historik"
+  },
+  {
+    "kommando": "git diff",
+    "beskrivning": "Visar skillnader mellan versioner"
   }
 
 
