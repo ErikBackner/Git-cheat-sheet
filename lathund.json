@@ -42,6 +42,10 @@
   {
     "kommando": "git shortlog",
     "beskrivning": "Visar en summering av commits per användare"
+  },
+  {
+    "kommando": "git describe",
+    "beskrivning": "Visar senaste tagg och commit-id"
   }
 
 
