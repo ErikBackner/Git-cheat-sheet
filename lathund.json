@@ -10,6 +10,10 @@
   {
     "kommando": "git fetch",
     "beskrivning": "Hämtar uppdateringar från fjärrrepo utan att merga"
+  },
+  {
+    "kommando": "git rebase branchnamn",
+    "beskrivning": "Flyttar commits till toppen av en annan branch"
   }
 
 
