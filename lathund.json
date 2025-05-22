@@ -42,6 +42,10 @@
   {
     "kommando": "git push",
     "beskrivning": "Laddar upp ändringar till fjärrrepo"
+  },
+  {
+    "kommando": "git pull",
+    "beskrivning": "Hämtar och slår ihop ändringar från fjärrrepo"
   }
 
 
