@@ -2,6 +2,10 @@
   {
     "kommando": "git rm filnamn",
     "beskrivning": "Tar bort en fil från både arbetskatalog och staging"
+  },
+  {
+    "kommando": "git mv gammalt_filnamn nytt_filnamn",
+    "beskrivning": "Byter namn på en fil och stagear ändringen"
   }
 
 
