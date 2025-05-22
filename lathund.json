@@ -6,6 +6,10 @@
   {
     "kommando": "git status",
     "beskrivning": "Visar ändringar i working directory"
+  },
+  {
+    "kommando": "git add filnamn",
+    "beskrivning": "Lägger till en fil till staging area"
   }
 
 
