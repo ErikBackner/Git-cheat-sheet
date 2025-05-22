@@ -38,6 +38,10 @@
   {
     "kommando": "git config --list",
     "beskrivning": "Visar git-konfiguration"
+  },
+  {
+    "kommando": "git shortlog",
+    "beskrivning": "Visar en summering av commits per användare"
   }
 
 
