@@ -18,6 +18,10 @@
   {
     "kommando": "git cherry-pick commit-id",
     "beskrivning": "Lägger till en enskild commit från annan branch"
+  },
+  {
+    "kommando": "git tag",
+    "beskrivning": "Skapar eller visar taggar"
   }
 
 
