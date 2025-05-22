@@ -30,6 +30,10 @@
   {
     "kommando": "git blame filnamn",
     "beskrivning": "Visar vem som skrev vilken rad i en fil"
+  },
+  {
+    "kommando": "git clean -fd",
+    "beskrivning": "Tar bort otrackade filer och mappar"
   }
 
 
