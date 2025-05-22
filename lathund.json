@@ -10,6 +10,10 @@
   {
     "kommando": "git add filnamn",
     "beskrivning": "Lägger till en fil till staging area"
+  },
+  {
+    "kommando": "git commit -m \"meddelande\"",
+    "beskrivning": "Sparar ändringar med ett meddelande"
   }
 
 
