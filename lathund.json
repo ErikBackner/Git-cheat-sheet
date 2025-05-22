@@ -2,6 +2,10 @@
   {
     "kommando": "git init",
     "beskrivning": "Initierar ett nytt git-repo i en mapp"
+  },
+  {
+    "kommando": "git status",
+    "beskrivning": "Visar ändringar i working directory"
   }
 
 
