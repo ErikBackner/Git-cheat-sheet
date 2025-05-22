@@ -54,6 +54,10 @@
   {
     "kommando": "git bisect",
     "beskrivning": "Används för att hitta vilken commit som introducerade en bugg"
+  },
+  {
+    "kommando": "git reflog",
+    "beskrivning": "Visar historik över HEAD-positioner"
   }
 
 
