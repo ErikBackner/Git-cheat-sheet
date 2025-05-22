@@ -1,0 +1,9 @@
+﻿[
+  {
+    "kommando": "git init",
+    "beskrivning": "Initierar ett nytt git-repo i en mapp"
+  }
+
+
+
+]
