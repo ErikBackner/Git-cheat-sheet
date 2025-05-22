@@ -22,6 +22,10 @@
   {
     "kommando": "git diff",
     "beskrivning": "Visar skillnader mellan versioner"
+  },
+  {
+    "kommando": "git branch",
+    "beskrivning": "Visar alla branches"
   }
 
 
