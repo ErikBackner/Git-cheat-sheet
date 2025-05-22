@@ -22,6 +22,10 @@
   {
     "kommando": "git tag",
     "beskrivning": "Skapar eller visar taggar"
+  },
+  {
+    "kommando": "git show",
+    "beskrivning": "Visar detaljer för en commit"
   }
 
 
