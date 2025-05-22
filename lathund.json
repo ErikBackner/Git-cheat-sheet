@@ -38,6 +38,10 @@
   {
     "kommando": "git reset --hard HEAD~1",
     "beskrivning": "Återställer till förra commit"
+  },
+  {
+    "kommando": "git push",
+    "beskrivning": "Laddar upp ändringar till fjärrrepo"
   }
 
 
