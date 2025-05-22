@@ -14,6 +14,10 @@
   {
     "kommando": "git commit -m \"meddelande\"",
     "beskrivning": "Sparar ändringar med ett meddelande"
+  },
+  {
+    "kommando": "git log",
+    "beskrivning": "Visar commit-historik"
   }
 
 
