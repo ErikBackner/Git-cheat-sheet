@@ -50,6 +50,10 @@
   {
     "kommando": "git archive",
     "beskrivning": "Skapar en zip av projektet"
+  },
+  {
+    "kommando": "git bisect",
+    "beskrivning": "Används för att hitta vilken commit som introducerade en bugg"
   }
 
 
