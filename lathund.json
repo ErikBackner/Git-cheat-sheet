@@ -26,6 +26,10 @@
   {
     "kommando": "git branch",
     "beskrivning": "Visar alla branches"
+  },
+  {
+    "kommando": "git checkout branchnamn",
+    "beskrivning": "Byter till annan branch"
   }
 
 
